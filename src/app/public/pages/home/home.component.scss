@@ -1,0 +1,11 @@
+.container {
+    width: 90%;
+    margin: auto;
+}
+
+.home {
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+    flex-wrap: wrap;
+}

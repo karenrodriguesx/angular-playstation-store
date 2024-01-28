@@ -1,0 +1,37 @@
+{
+    "games": [
+      {
+        "id": 1,
+        "title": "The Legend of Adventure",
+        "categories": ["Action", "Adventure"],
+        "price": 59.99,
+        "exclusive": false,
+        "image": "image_url1.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Space Explorer 3000",
+        "categories": ["Action", "Simulation"],
+        "price": 39.99,
+        "exclusive": true,
+        "image": "image_url2.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Fantasy Quest",
+        "categories": ["RPG", "Adventure"],
+        "price": 49.99,
+        "exclusive": false,
+        "image": "image_url3.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Sports Challenge",
+        "categories": ["Sports"],
+        "price": 29.99,
+        "exclusive": true,
+        "image": "image_url4.jpg"
+      }
+    ]
+  }
+  
